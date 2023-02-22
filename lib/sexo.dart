@@ -1,0 +1,4 @@
+enum Sexo {
+  feminino,
+  masculino,
+}
