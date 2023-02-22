@@ -1,4 +1,5 @@
 # Projeto de estudo de aplicativo de cálculo de IMC em Flutter
+![AppTela](https://user-images.githubusercontent.com/96260638/220791379-605271bf-894b-4358-9f92-fef8828b7ffb.gif)
 
 Este projeto foi criado com o objetivo de fornecer uma experiência prática em Flutter e no desenvolvimento de aplicativos móveis, permitindo que os usuários calculem seu IMC com base em suas informações de peso e altura. O aplicativo utiliza a linguagem de programação Dart e o framework Flutter para compatibilidade com dispositivos Android.
 ## Recursos
